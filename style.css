@@ -16,18 +16,18 @@ button {
 }
 
 img {
-      margin: 100px 0px 0px 550px;
+      margin: 100px 0px 0px 550px; 
       border: 7px solid white;
       border-radius: 20px;
     }
 
-.content-footer,
+.content-footer, 
 .masthead-heading,
 .masthead-intro {
   text-align: center;
 }
 
-.masthead {
+.masthead { 
   padding: 6em 0;
   background-image: url('https://i.imgur.com/yGmrlyg.jpg');
   background-size: cover;
